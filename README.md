@@ -7,9 +7,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Demo / Screenshots
+# Demo / Screenshots
+
+# 1. Home Page
+When you first open the application, you will see the home page where you can see all the blogs.
 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/d03af3d1-cd74-4767-bcfd-83b5338cf35e)
+
+#2 Login and Register Page
+You need an account to write and view the full bog For that you just need to go to register page and create an account.
 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/d5b5f793-ba11-47b0-8dfa-df942da8c874)
 
