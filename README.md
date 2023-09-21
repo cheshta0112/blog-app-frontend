@@ -43,11 +43,13 @@ loggin user can also write their own blog.
 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/5514768f-c7d0-4178-bc51-1099c9a1c6ea)
 
-# 7 My Blog Page 
-
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/f3873f76-3f8a-44b4-a06a-3c3fcb25db67)
 
+# 7 My Blog Page 
+
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/bb605eac-c8e1-406f-aed7-3dc2d5573faf)
+
+# 8 Menu
 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/730c9c93-bb7c-4aa3-aaee-146bd8efb89a)
 
