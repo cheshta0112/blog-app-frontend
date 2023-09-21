@@ -14,7 +14,8 @@ When you first open the application, you will see the home page where you can se
 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/d03af3d1-cd74-4767-bcfd-83b5338cf35e)
 
-#2 Login and Register Page
+# 2 Login and Register Page
+
 You need an account to write and view the full bog For that you just need to go to register page and create an account.
 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/d5b5f793-ba11-47b0-8dfa-df942da8c874)
