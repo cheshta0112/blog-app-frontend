@@ -22,6 +22,9 @@ You need an account to write and view the full bog For that you just need to go 
 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/97e2fcca-e2f2-4e22-9058-0f9818ef74a5)
 
+# 3 HOME PAGE AFTER LOGIN 
+
+you can see all the blogs after logging in . 
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/105e9f80-dfd7-4031-b3b2-c2804a28c5d6)
 ![image](https://github.com/cheshta0112/blog-app-frontend/assets/104692214/3f174c59-4673-491e-bb31-cf000d0513d4)
 
